@@ -1,2 +1,2 @@
 # CdKLab3
-Version control CSCI062 Lab 3
+This is Lab 3, and the people working on it are me, Khai, and Carmen
